@@ -7,7 +7,7 @@ This dataset is slightly different from the dataset used in paper. So results mi
 
 
 ## Dataset
-You can download the dataset from Google drive. The structure of dataset is given below.
+You can download the dataset from [drive](https://drive.google.com/drive/folders/131jT-0YeHtpkzYrO_JZviU78Wgj7onGV?usp=sharing). The structure of dataset is given below.
 
     dataset
       |
